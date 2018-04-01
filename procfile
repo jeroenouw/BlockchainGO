@@ -1,1 +1,1 @@
-web: BlockchainGO
+web: go run main.go
